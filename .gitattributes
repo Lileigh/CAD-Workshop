@@ -1,6 +1,24 @@
-[attr]nolfs !filter !diff !merge !text
-* filter=lfs　-diff merge=lfs -text
-*.txt nolfs
-*.TXT nolfs
-*.m nolfs
-*.M nolfs
+*.sldprt filter=lfs -diff merge=lfs -text
+*.slddrw filter=lfs -diff merge=lfs -text
+*.sldasm filter=lfs -diff merge=lfs -text
+*.slddrt filter=lfs -diff merge=lfs -text
+*.drwdot filter=lfs -diff merge=lfs -text
+*.SLDPRT filter=lfs -diff merge=lfs -text
+*.SLDDRW filter=lfs -diff merge=lfs -text
+*.SLDASM filter=lfs -diff merge=lfs -text
+*.SLDDRT filter=lfs -diff merge=lfs -text
+*.DRWDOT filter=lfs -diff merge=lfs -text
+*.stp filter=lfs -diff merge=lfs -text
+*.step filter=lfs -diff merge=lfs -text
+*.igs filter=lfs -diff merge=lfs -text
+*.iges filter=lfs -diff merge=lfs -text
+*.stl filter=lfs -diff merge=lfs -text
+*.dxf filter=lfs -diff merge=lfs -text
+*.x_t filter=lfs -diff merge=lfs -text
+*.STP filter=lfs -diff merge=lfs -text
+*.STEP filter=lfs -diff merge=lfs -text
+*.IGS filter=lfs -diff merge=lfs -text
+*.IGES filter=lfs -diff merge=lfs -text
+*.STL filter=lfs -diff merge=lfs -text
+*.DXF filter=lfs -diff merge=lfs -text
+*.X_T filter=lfs -diff merge=lfs -text

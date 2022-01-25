@@ -1,3 +1,4 @@
+
 *.CWR
 *.DSP
 *.ELF
@@ -11,7 +12,10 @@
 *.OUT
 *.STE
 *.STG
-*PerformanceLog.txt
 *.BD2
 *.BDF
-~*
+*.CNT
+*.GCF
+*.PC0
+*.SL3
+*.SL4
