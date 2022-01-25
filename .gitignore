@@ -19,3 +19,5 @@
 *.PC0
 *.SL3
 *.SL4
+*PerformanceLog.txt
+~*
