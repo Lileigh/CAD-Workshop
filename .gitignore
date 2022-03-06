@@ -21,3 +21,6 @@
 *.SL4
 *PerformanceLog.txt
 ~*
+*.hdr
+*.rsl
+*.BMC
